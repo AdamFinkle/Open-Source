@@ -7,7 +7,7 @@ Classes: None
 :func: test_linear_search : check if linear_search returns right value
 
 :raises: AssertionError : tested function returned wrong value
-:raises: AssertionError : tested function took too lone
+:raises: AssertionError : tested function took too long
 """
 
 import pytest 
